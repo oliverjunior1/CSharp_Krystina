@@ -1,0 +1,7 @@
+C:\Users\Olive\source\repos\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.exe.config
+C:\Users\Olive\source\repos\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.exe
+C:\Users\Olive\source\repos\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.pdb
+C:\Users\Olive\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.csproj.AssemblyReference.cache
+C:\Users\Olive\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.csproj.CoreCompileInputs.cache
+C:\Users\Olive\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.exe
+C:\Users\Olive\source\repos\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.pdb

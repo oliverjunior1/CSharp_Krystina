@@ -1,0 +1,7 @@
+C:\Users\Olive\source\repos\JesusIsLove\JesusIsLove\obj\Debug\JesusIsLove.csproj.AssemblyReference.cache
+C:\Users\Olive\source\repos\JesusIsLove\JesusIsLove\obj\Debug\JesusIsLove.csproj.CoreCompileInputs.cache
+C:\Users\Olive\source\repos\JesusIsLove\JesusIsLove\bin\Debug\JesusIsLove.exe.config
+C:\Users\Olive\source\repos\JesusIsLove\JesusIsLove\bin\Debug\JesusIsLove.exe
+C:\Users\Olive\source\repos\JesusIsLove\JesusIsLove\bin\Debug\JesusIsLove.pdb
+C:\Users\Olive\source\repos\JesusIsLove\JesusIsLove\obj\Debug\JesusIsLove.exe
+C:\Users\Olive\source\repos\JesusIsLove\JesusIsLove\obj\Debug\JesusIsLove.pdb

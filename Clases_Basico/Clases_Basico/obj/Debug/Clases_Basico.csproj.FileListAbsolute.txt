@@ -1,0 +1,7 @@
+C:\Users\Olive\source\repos\Clases_Basico\Clases_Basico\bin\Debug\Clases_Basico.exe.config
+C:\Users\Olive\source\repos\Clases_Basico\Clases_Basico\bin\Debug\Clases_Basico.exe
+C:\Users\Olive\source\repos\Clases_Basico\Clases_Basico\bin\Debug\Clases_Basico.pdb
+C:\Users\Olive\source\repos\Clases_Basico\Clases_Basico\obj\Debug\Clases_Basico.csproj.AssemblyReference.cache
+C:\Users\Olive\source\repos\Clases_Basico\Clases_Basico\obj\Debug\Clases_Basico.csproj.CoreCompileInputs.cache
+C:\Users\Olive\source\repos\Clases_Basico\Clases_Basico\obj\Debug\Clases_Basico.exe
+C:\Users\Olive\source\repos\Clases_Basico\Clases_Basico\obj\Debug\Clases_Basico.pdb

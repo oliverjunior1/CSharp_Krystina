@@ -1,0 +1,7 @@
+C:\Users\Olive\source\repos\Miembros\Miembros\bin\Debug\Miembros.exe.config
+C:\Users\Olive\source\repos\Miembros\Miembros\bin\Debug\Miembros.exe
+C:\Users\Olive\source\repos\Miembros\Miembros\bin\Debug\Miembros.pdb
+C:\Users\Olive\source\repos\Miembros\Miembros\obj\Debug\Miembros.csproj.AssemblyReference.cache
+C:\Users\Olive\source\repos\Miembros\Miembros\obj\Debug\Miembros.csproj.CoreCompileInputs.cache
+C:\Users\Olive\source\repos\Miembros\Miembros\obj\Debug\Miembros.exe
+C:\Users\Olive\source\repos\Miembros\Miembros\obj\Debug\Miembros.pdb

@@ -1,0 +1,7 @@
+C:\Users\Olive\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\LoopDoWhile.csproj.AssemblyReference.cache
+C:\Users\Olive\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\LoopDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Olive\source\repos\LoopDoWhile\LoopDoWhile\bin\Debug\LoopDoWhile.exe.config
+C:\Users\Olive\source\repos\LoopDoWhile\LoopDoWhile\bin\Debug\LoopDoWhile.exe
+C:\Users\Olive\source\repos\LoopDoWhile\LoopDoWhile\bin\Debug\LoopDoWhile.pdb
+C:\Users\Olive\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\LoopDoWhile.exe
+C:\Users\Olive\source\repos\LoopDoWhile\LoopDoWhile\obj\Debug\LoopDoWhile.pdb

@@ -1,0 +1,7 @@
+C:\Users\Olive\source\repos\DesafioPromedio\DesafioPromedio\bin\Debug\DesafioPromedio.exe.config
+C:\Users\Olive\source\repos\DesafioPromedio\DesafioPromedio\bin\Debug\DesafioPromedio.exe
+C:\Users\Olive\source\repos\DesafioPromedio\DesafioPromedio\bin\Debug\DesafioPromedio.pdb
+C:\Users\Olive\source\repos\DesafioPromedio\DesafioPromedio\obj\Debug\DesafioPromedio.csproj.AssemblyReference.cache
+C:\Users\Olive\source\repos\DesafioPromedio\DesafioPromedio\obj\Debug\DesafioPromedio.csproj.CoreCompileInputs.cache
+C:\Users\Olive\source\repos\DesafioPromedio\DesafioPromedio\obj\Debug\DesafioPromedio.exe
+C:\Users\Olive\source\repos\DesafioPromedio\DesafioPromedio\obj\Debug\DesafioPromedio.pdb

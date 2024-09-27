@@ -1,0 +1,7 @@
+C:\Users\Olive\source\repos\W3Schools\W3Schools\obj\Debug\W3Schools.csproj.AssemblyReference.cache
+C:\Users\Olive\source\repos\W3Schools\W3Schools\obj\Debug\W3Schools.csproj.CoreCompileInputs.cache
+C:\Users\Olive\source\repos\W3Schools\W3Schools\bin\Debug\W3Schools.exe.config
+C:\Users\Olive\source\repos\W3Schools\W3Schools\bin\Debug\W3Schools.exe
+C:\Users\Olive\source\repos\W3Schools\W3Schools\bin\Debug\W3Schools.pdb
+C:\Users\Olive\source\repos\W3Schools\W3Schools\obj\Debug\W3Schools.exe
+C:\Users\Olive\source\repos\W3Schools\W3Schools\obj\Debug\W3Schools.pdb
