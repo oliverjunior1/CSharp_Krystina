@@ -1,0 +1,7 @@
+C:\Users\Olive\source\repos\HolaMundoOne\HolaMundoOne\obj\Debug\HolaMundoOne.csproj.AssemblyReference.cache
+C:\Users\Olive\source\repos\HolaMundoOne\HolaMundoOne\obj\Debug\HolaMundoOne.csproj.CoreCompileInputs.cache
+C:\Users\Olive\source\repos\HolaMundoOne\HolaMundoOne\bin\Debug\HolaMundoOne.exe.config
+C:\Users\Olive\source\repos\HolaMundoOne\HolaMundoOne\bin\Debug\HolaMundoOne.exe
+C:\Users\Olive\source\repos\HolaMundoOne\HolaMundoOne\bin\Debug\HolaMundoOne.pdb
+C:\Users\Olive\source\repos\HolaMundoOne\HolaMundoOne\obj\Debug\HolaMundoOne.exe
+C:\Users\Olive\source\repos\HolaMundoOne\HolaMundoOne\obj\Debug\HolaMundoOne.pdb

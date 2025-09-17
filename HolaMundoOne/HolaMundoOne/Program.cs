@@ -25,7 +25,7 @@ namespace HolaMundoOne
             Console.WriteLine(resultado2);
             Console.WriteLine(resultado);
             Console.Read();
-            */
+            
             // Métodos String
             string nombre = "Joaquim";
             string apellido = "Rodrigues";
@@ -35,6 +35,7 @@ namespace HolaMundoOne
             Console.WriteLine(nombre.ToUpper());
             Console.WriteLine(nombreCompleto.Trim());
             Console.Read();
+            */
         }
     }
 }
